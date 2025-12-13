@@ -15,9 +15,9 @@ This project analyzes stock market data and presents insights using dashboards.
 - Dividend yield comparison by exchange
 
 ## Files in This Repository
-- stock_data.xlsx
+- Stock Market Dashboard.xlsx
 - queries.sql
-- dashboard_screenshot.png
+- dashboard_image.png
 
 ## Conclusion
 This project demonstrates my data analysis and visualization skills.
